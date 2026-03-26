@@ -1,0 +1,55 @@
+------ UNIT CONVERTER ------
+1. Length
+2. Weight
+3. Temperature
+4. Currency
+5. Digital Storage
+6. Time
+7. Exit
+Enter your choice: 1
+Enter value: 10000
+Convert from: 1. Centimeter  2. Meter  3. Kilometer
+Your choice: 1
+Convert to: 1. Centimeter  2. Meter  3. Kilometer
+Your choice: 2
+Result: 100 Meter
+Do you want to convert again? (y/n): y
+
+------ UNIT CONVERTER ------
+1. Length
+2. Weight
+3. Temperature
+4. Currency
+5. Digital Storage
+6. Time
+7. Exit
+Enter your choice: 4
+Enter value: 2000
+Convert from: 1. Rs.  2. Dollar  3. Euro
+Your choice: 1
+Convert to: 1. Rs.  2. Dollar  3. Euro
+Your choice: 2
+Result: 24.0964 Dollar
+Do you want to convert again? (y/n): y
+
+------ UNIT CONVERTER ------
+1. Length
+2. Weight
+3. Temperature
+4. Currency
+5. Digital Storage
+6. Time
+7. Exit
+Enter your choice: 11
+Invalid input! Enter 1-7.
+
+------ UNIT CONVERTER ------
+1. Length
+2. Weight
+3. Temperature
+4. Currency
+5. Digital Storage
+6. Time
+7. Exit
+Enter your choice: 7
+Exiting...
